@@ -28,15 +28,15 @@
             <td><strong>dev</strong></td>
         </tr>
         <tr>
-            <td><a href="https://travis-ci.org/the0demiurge/ShadowSocksShare"><img src="https://travis-ci.org/the0demiurge/ShadowSocksShare.svg?branch=master" alt="master"></a></td>
-            <td> <a href="https://travis-ci.org/the0demiurge/ShadowSocksShare"><img src="https://travis-ci.org/the0demiurge/ShadowSocksShare.svg?branch=dev" alt="dev"></a></td></tr>
+            <td><a href="https://travis-ci.org/zhuhaoxlj/ShadowSocksShare"><img src="https://travis-ci.org/zhuhaoxlj/ShadowSocksShare.svg?branch=master" alt="master"></a></td>
+            <td> <a href="https://travis-ci.org/zhuhaoxlj/ShadowSocksShare"><img src="https://travis-ci.org/zhuhaoxlj/ShadowSocksShare.svg?branch=dev" alt="dev"></a></td></tr>
     </table>
 </center>
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 
-<center><a href="https://heroku.com/deploy?template=https://github.com/the0demiurge/ShadowSocksShare/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></center>
+<center><a href="https://heroku.com/deploy?template=https://github.com/zhuhaoxlj/ShadowSocksShare/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></center>
 
 ## 简介：
 
@@ -56,7 +56,7 @@
 示例网站：[ss.pythonic.life](http://ss.pythonic.life)
 备用地址：[ssr.pythonic.life](http://ssr.pythonic.life)
 
-博客连接：[the0demiurge.blogspot.jp](https://the0demiurge.blogspot.jp/2017/07/shadowsocks.html)
+博客连接：[zhuhaoxlj.blogspot.jp](https://zhuhaoxlj.blogspot.jp/2017/07/shadowsocks.html)
 
 ### 为该项目贡献力量：
 
@@ -66,7 +66,7 @@
 
 **以非技术方式：**
 
-1. 反馈建议：到[这个页面](https://github.com/the0demiurge/ShadowSocksShare/issues)提交Issue
+1. 反馈建议：到[这个页面](https://github.com/zhuhaoxlj/ShadowSocksShare/issues)提交Issue
 2. 提供比较好的 ss(r) 分享链接
 3. 捐助 ssr 账号的来源网站
 4. 捐助我：如果你已经可以上 Google，打开[示例网站](http://ss.pythonic.life)并拖到最后，就能看到微信打赏二维码：）
@@ -75,7 +75,7 @@
 
 **以技术类方式：**
 
-1. 阅读[项目贡献指南](https://github.com/the0demiurge/ShadowSocksShare/wiki)并按照项目贡献指南为本项目修改源
+1. 阅读[项目贡献指南](https://github.com/zhuhaoxlj/ShadowSocksShare/wiki)并按照项目贡献指南为本项目修改源
 2. 修改项目源码并提交 PR
 
 ## 用法：
@@ -100,7 +100,7 @@
 ## Heroku 部署方法：
 
 
-点击[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/the0demiurge/ShadowSocksShare-OpenShift/tree/master)一键部署
+点击[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zhuhaoxlj/ShadowSocksShare-OpenShift/tree/master)一键部署
 
 或者参考[**这个网站的教程**](https://hoochanlon.github.io/fq-book/#/web/heroku-deploy)。
 
@@ -121,7 +121,7 @@
 
 - 进入 [GAE](https://console.cloud.google.com/appengine) 并选择创建一个应用
 - 选择 Python 并选择一个地点，按教程打开一个 Google Shell 控制台
-- 克隆本项目，输入`git clone https://github.com/the0demiurge/ShadowSocksShare.git`
+- 克隆本项目，输入`git clone https://github.com/zhuhaoxlj/ShadowSocksShare.git`
 - 进入项目，分入`cd ShadowSocksShare`
 - 输入 `gcloud app deploy app.yaml --project xxx` 部署应用，输入y同意部署。
 
